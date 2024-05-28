@@ -20,7 +20,6 @@
 [Paper](https://arxiv.org/abs/2310.14491)
 
 # MLLM-explainable
-##Attention methods for explain
 ### OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 [Paper](https://arxiv.org/abs/2311.17911) [Code](https://github.com/shikiw/OPERA)
 
