@@ -31,6 +31,9 @@
 ### Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer
 [Paper](https://arxiv.org/abs/2403.14552)
 
+###  Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers
+[Paper](https://arxiv.org/pdf/2103.15679)
+[Code](https://github.com/hila-chefer/Transformer-MM-Explainability)
 
 ### AttCAT: Explaining Transformers via Attentive Class Activation Tokens
 [Paper](https://openreview.net/pdf?id=cA8Zor8wFr5)
